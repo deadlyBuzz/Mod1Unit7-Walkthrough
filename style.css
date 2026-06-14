@@ -1,0 +1,21 @@
+body {
+      font-family: Arial, sans-serif;
+}
+.note{
+    color: steelblue;
+    font-style: italic;
+    background-color: palegoldenrod;
+}
+
+#main-paragraph{
+    font-weight: bold;
+    background-color: greenyellow;
+}
+
+/* Box model in practice */
+.card{
+    padding: 20px;
+    margin: 30px;
+    border: 2px solid #444;
+    background-color: #f9f9f9;
+}
