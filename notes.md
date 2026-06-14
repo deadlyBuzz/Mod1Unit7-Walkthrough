@@ -33,3 +33,4 @@ and the comment:
 This is not clear and obvious, so lets see what it does?.
 
 2026-06-14  23:19 So Far - Both the same.
+2026-06-14  23:21 *THIS* one on the other hand, has correctly only applied the BOLD text to the paragraphs indside the DIV, the others inside the article, are not applied.
