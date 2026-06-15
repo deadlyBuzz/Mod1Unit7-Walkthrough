@@ -30,9 +30,15 @@ body {
 }
 
 div p {
-    color: darkgrey;
+    color: darkslategrey;
 }
 
 div > p {
     font-weight: bold;
+}
+p:hover{
+    background-color: palegreen;
+}
+p::first-line{
+    color:darkred
 }

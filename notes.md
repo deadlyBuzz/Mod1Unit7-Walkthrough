@@ -34,3 +34,8 @@ This is not clear and obvious, so lets see what it does?.
 
 2026-06-14  23:19 So Far - Both the same.
 2026-06-14  23:21 *THIS* one on the other hand, has correctly only applied the BOLD text to the paragraphs indside the DIV, the others inside the article, are not applied.
+
+2026-06-15  19:01
+OK, This is intersting.  Have implemented this file and it looks nice, 
+The key here is the `p::fistline` element.
+The Change of style takes place from "Span Though..." as opposed to "fact that..." which is a hard coded second line.
